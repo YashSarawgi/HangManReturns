@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rainbowocean.hangmanreturns">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Category_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Enter_Text"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".HangMan_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Resultpopup"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.CustomTheme" />
+        <activity
+            android:name=".HomeScreen_Activity"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name=".Player_Name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Round_Display"
+            android:label=""
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.CustomTheme" />
+        <activity
+            android:name=".CategoryOtherInput"
+            android:theme="@style/AppTheme.CustomTheme" />
+        <activity android:name=".Splash_Screen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

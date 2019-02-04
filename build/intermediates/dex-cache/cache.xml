@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash\.android\build-cache\db73cdd6b48e33d26579cfd36f93ffa561dcb52c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\pre-dexed\debug\classes_4427e85f8ffe9662ccaa80c83f085798cfbfa8d6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yash\.android\build-cache\db73cdd6b48e33d26579cfd36f93ffa561dcb52c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4427e85f8ffe9662ccaa80c83f085798cfbfa8d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yash\.android\build-cache\6749dba96b89f3c5f18ff79d1114198daddeb5e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf9ad6e0c39d7d08803453b7060fc22443bf4541\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yash\.android\build-cache\ae67e8f2c62083f49db1e0153b87412f0c6fe37f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dbebf890fa0e2ea9dcb7f144f4aaff3aa8dc539a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash\.android\build-cache\5e498aba4fa92a06347c171ad82db74b5c66ccc5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\pre-dexed\debug\classes_a6996131542b9cb18a36cca74df7ce95829b4a48.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yash\.android\build-cache\5e498aba4fa92a06347c171ad82db74b5c66ccc5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6996131542b9cb18a36cca74df7ce95829b4a48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yash\.android\build-cache\265925eacb2c3998cebdea3787cf8ddbf4738fe0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b636e003baae24b46f4619b2db262496562b28e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash\.android\build-cache\6749dba96b89f3c5f18ff79d1114198daddeb5e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\pre-dexed\debug\classes_cf9ad6e0c39d7d08803453b7060fc22443bf4541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash\.android\build-cache\16d3513e3ec8d03d76b96d5cd898b7092e4fdbf0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\pre-dexed\debug\classes_62b43188fdd1375982133de677e1ddcac9af5b3f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4eb1b3c84efcec0d3c9bcf48e7018eeb01031990">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ce256f9aaa4a3fd51208c7989982a3d48edf3e58\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash\.android\build-cache\ae67e8f2c62083f49db1e0153b87412f0c6fe37f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\pre-dexed\debug\classes_dbebf890fa0e2ea9dcb7f144f4aaff3aa8dc539a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yash\.android\build-cache\7f1c200d89ae7413431f87a78bafb8667c0bbc7a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1480ebac9505e483d91e553e8425a95450fad1ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_54d14c6fd769d941457d6e80a2f6aec56330bee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash\.android\build-cache\265925eacb2c3998cebdea3787cf8ddbf4738fe0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\pre-dexed\debug\classes_b636e003baae24b46f4619b2db262496562b28e0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yash\.android\build-cache\763c37a16871dde530c8fab99c35b3a09faf3bf5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d73734bdb76745ef1a07e2a9a832bc34113b038\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash\.android\build-cache\7f1c200d89ae7413431f87a78bafb8667c0bbc7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\pre-dexed\debug\classes_1480ebac9505e483d91e553e8425a95450fad1ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash\.android\build-cache\763c37a16871dde530c8fab99c35b3a09faf3bf5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\pre-dexed\debug\classes_4d73734bdb76745ef1a07e2a9a832bc34113b038.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yash\.android\build-cache\16d3513e3ec8d03d76b96d5cd898b7092e4fdbf0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_62b43188fdd1375982133de677e1ddcac9af5b3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yash\.android\build-cache\b7d877eebc4e05e572be66090907901b468f3c5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\pre-dexed\debug\classes_92134183d06b3a2fbbc9468ca5e6bf5cc4afdc4d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yash\.android\build-cache\b7d877eebc4e05e572be66090907901b468f3c5f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Yash\AndroidStudioProjects\HangManReturns\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92134183d06b3a2fbbc9468ca5e6bf5cc4afdc4d\classes.dex" />
+    </item>
+
+</items>
